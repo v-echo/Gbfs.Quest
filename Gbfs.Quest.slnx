@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Gbfs.Quest.Tests/Gbfs.Quest.Tests.csproj" Id="00ceacd2-0b32-4d3b-ad16-da23984f5e76" />
+  <Project Path="Gbfs.Quest/Gbfs.Quest.csproj" />
+</Solution>
